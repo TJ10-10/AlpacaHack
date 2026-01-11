@@ -10,3 +10,9 @@ tar -zxvf
 -v: ファイル名表示(verbose)
 -f: ファイル名指定
 # AlpacaHack
+
+---
+## GitHub
+git add .
+git commit -m ""
+git push
